@@ -60,6 +60,6 @@
     "@angular/core": "^19.0.0",
     "@angular/forms": "^19.0.0",
     "@angular/material": "^19.0.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.4.0"
   }
 }
